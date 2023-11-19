@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Quang Nguyen"
-  avatar           : "image/ava.jpg"
+  avatar           : "images/ava.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "HCM"
   employer         :
