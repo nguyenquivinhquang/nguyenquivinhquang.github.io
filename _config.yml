@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quang Nguyen"
   avatar           : "images/ava.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "HCM"
   employer         :
   pubmed           :
