@@ -6,15 +6,16 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "vi-VN"
-title                    : "Nguyễn Quí Vinh Quang"
+locale                   : "en-US"
+title                    : "Adrian Salazar - Site"
 title_separator          : "-"
-name                     : &name "Nguyễn Quí Vinh Quang"
+name                     : &name "Adrian Salazar"
 description              : &description "personal description"
-url                      : https://nguyenquivinhquang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adrianxsalazar.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nguyenquivinhquang/nguyenquivinhquang.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "adrianxsalazar/adrianxsalazar.github.io"
+teaser                   : 
+logo                     : "mstile-70x70.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -73,22 +74,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-169222310-1"
 
 
 # Site Author
 author:
-  name             : "Quang Nguyen"
-  avatar           : "ava.jpg"
-  bio              : 
-  location         : "HCM"
+  name             : "Adrian Salazar"
+  avatar           : "adrian_salazar_profile.png"
+  bio              : "Research Assistant in Robotic Perception and Machine Learning"
+  location         : "London. United Kingdom"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=x0dxK5YAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"
+  email            : "adrian.salazar_gomez@kcl.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Adrian_Salazar_Gomez"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +97,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nguyenquivinhquang"
+  github           : "adrianxsalazar"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "adrianxsalazar"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -115,6 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf"
 
 
 # Reading Files
@@ -175,18 +177,18 @@ kramdown:
 
 # Collections
 collections:
-  # teaching:
-  #   output: false
-  #   permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: false
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: false
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -309,3 +311,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
