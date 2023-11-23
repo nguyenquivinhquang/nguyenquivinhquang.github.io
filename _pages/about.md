@@ -11,12 +11,13 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>This is the web page of Adrian Salazar Gomez.</p>
+<p>This is the web page of Nguyễn Quí Vinh Quang.</p>
 
-<p>I am a researcher specializing in Robotics, as well as 2D and 3D Computer Vision, at the <a href="https://www.ed.ac.uk">University of Edinburgh</a>. I am affiliated with the <a href="https://www.edinburgh-robotics.org">Edinburgh Centre for Robotics</a> and the <a href="https://thenationalrobotarium.com">National Robotarium</a>.</p>
+<p> I am a research resident at <a href="https://www.vinai.io/">VinAI</a>, working under the supervision of  <a href="https://www.khoinguyen.org/">Dr. Khoi Nguyen</a> and <a href="https://rangnguyen.github.io/">Dr. Rang Nguyen</a>. My research focuses on the domain of Human Mesh Recovery in Video. Prior to my time at VinAI, I was an undergraduate at the International University - National University, where I was under the guidance of Dr. Ha Viet Uyen Synh. During this period, my research delved into the fields of multi-camera multi-people tracking and Vehicle Retrieval by Natural Language Descriptions.  </p>
 
-<p>For inquiries about my research, email me at <strong>adrian.salazar-gomez@ed.ac.uk</strong>.</p>
-<p>See my work on <a href="https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en">Google Scholar</a>.</p>
+
+<p>For inquiries about my research, email me at <strong>nguyenquivinhquang@gmail.com</strong>.</p>
+<p>See my work on <a href="https://scholar.google.com/citations?user=x0dxK5YAAAAJ&hl=en">Google Scholar</a>.</p>
 
 <head>
     <meta charset="UTF-8">
@@ -43,7 +44,7 @@ redirect_from:
 </head>
 <body>
 
-<h2>Research Overview</h2>
+<!-- <h2>Research Overview</h2>
 
 <div class="text-justify">
     <p>I specialize in the intersecting domains of computer vision, machine learning, and autonomous systems.</p>
@@ -82,17 +83,7 @@ redirect_from:
 </div>
 
 
-</div>
-
-
-<div class="text-justify">
-
-<h2> Contact </h2>
-
-<p>You can drop me an email to <a href="mailto:asalazargomez@lincoln.ac.uk"> my University of Lincoln email: </a>  <strong>asalazargomez@lincoln.ac.uk</strong>
-or to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my king's email: </a>  <strong>adrian.salazar_gomez@kcl.ac.uk</strong> <br> </p>
-
-</div>
+</div> -->
 
 
 <div class="text-justify">
@@ -101,7 +92,7 @@ or to <a href="mailto:adrian.salazar_gomez@kcl.ac.uk"> my king's email: </a>  <s
 
 <p> I have had the chance to study my BSc at the University of West Florida and the University of Burgos, a MSc at the University of Edinburgh, and a MSc at King's Collegue London. </p>
 
-<div class="text-center">
+<!-- <div class="text-center">
 <div class="row">
 
 	<img  class="img-circle" src="https://adrianxsalazar.github.io/images/west_florida_logo.png">
@@ -147,4 +138,4 @@ Started as a Research assistant in Machine learning and robotic perception at th
 <p> <strong> 2020/01 </strong> <br>
 Started as a Teaching assistant at King's College London </p>
 
-</div>
+</div> -->
