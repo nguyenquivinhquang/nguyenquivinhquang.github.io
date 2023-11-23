@@ -1,9 +1,9 @@
 ---
-title: "Teaching"
-permalink: /teach/
+title: "Achivements"
+permalink: /achivements/
 author_profile: true
 redirect_from:
-  - /teaching
+  - /achivements
 ---
 
 <div class="text-justify">
