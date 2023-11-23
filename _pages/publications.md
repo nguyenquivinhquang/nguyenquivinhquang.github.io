@@ -23,7 +23,7 @@ author_profile: true
 <tr> <td style="width:170px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="../images/nlp_track.png" width="160px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 Huy Dinh-Anh Le <u> Quang Qui-Vinh Nguyen </u>,  Duc Trung Luu, Truc Thi-Thanh Chau, Nhat Minh Chung, Synh Viet-Uyen Ha <br> <strong>Tracked-Vehicle Retrieval by Natural Language Descriptions With Multi-Contextual Adaptive Knowledge</strong> <br>
-<i> Accepted at CVPRW 2023  <a  href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Le_Tracked-Vehicle_Retrieval_by_Natural_Language_Descriptions_With_Multi-Contextual_Adaptive_Knowledge_CVPRW_2023_paper.pdf"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> [CODE] </a> <a href="https://github.com/ctyeong/Riseholme-2021"> </a>  </i>  </p> </td>
+<i> Accepted at CVPRW 2023  <a  href="https://openaccess.thecvf.com/content/CVPR2023W/AICity/papers/Le_Tracked-Vehicle_Retrieval_by_Natural_Language_Descriptions_With_Multi-Contextual_Adaptive_Knowledge_CVPRW_2023_paper.pdf"> [PDF] </a> <a href="https://github.com/ctyeong/CH-Rand"> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
