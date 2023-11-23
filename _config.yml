@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adrian Salazar - Site"
+title                    : "Nguyễn Quí Vinh Quang - Site"
 title_separator          : "-"
-name                     : &name "Adrian Salazar"
+name                     : &name "Nguyen Qui Vinh Quang"
 description              : &description "personal description"
-url                      : https://adrianxsalazar.github.io
+url                      : https://nguyenquivinhquang.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adrianxsalazar/adrianxsalazar.github.io"
+repository               : "nguyenquivinhquang/nguyenquivinhquang.github.io"
 teaser                   : 
 logo                     : "mstile-70x70.png"
 breadcrumbs              : false # true, false (default)
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adrian Salazar"
-  avatar           : "adrian_salazar_profile.png"
-  bio              : "Research Assistant in Robotic Perception and Machine Learning"
-  location         : "London. United Kingdom"
+  name             : "Nguyễn Quí Vinh Quang"
+  avatar           : "ava.jpg"
+  bio              : "Research Resident at VinAI Research, Vietnam"
+  location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xC3keU4AAAAJ&hl=en"
-  email            : "adrian.salazar_gomez@kcl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Adrian_Salazar_Gomez"
+  googlescholar    : "https://scholar.google.com/citations?user=x0dxK5YAAAAJ&hl=en"
+  email            : "nguyenquivinhquang@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "adrianxsalazar"
+  github           : "nguyenquivinhquang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "adrianxsalazar"
+  linkedin         : "nguyenquivinhquang"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "https://adrianxsalazar.github.io/files/Adrian_Salazar_Research_CV.pdf"
+  cv               : 
 
 
 # Reading Files
