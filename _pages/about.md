@@ -90,7 +90,7 @@ redirect_from:
 
 <h2> Education </h2>
 
-<p> I have had the chance to study my BSc at the University of West Florida and the University of Burgos, a MSc at the University of Edinburgh, and a MSc at King's Collegue London. </p>
+<p> I have had the chance to study my BSc at the International University - VNU-HCM </p>
 
 <!-- <div class="text-center">
 <div class="row">
