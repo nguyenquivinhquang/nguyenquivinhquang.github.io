@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nguyễn Quí Vinh Quang - Site"
+title                    : "Nguyễn Quí Vinh Quang"
 title_separator          : "-"
 name                     : &name "Nguyen Qui Vinh Quang"
 description              : &description "personal description"
