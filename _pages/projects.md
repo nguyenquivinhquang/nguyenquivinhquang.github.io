@@ -4,7 +4,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<div class="text-justify">
+<!-- <div class="text-justify">
 
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
@@ -98,4 +98,4 @@ author_profile: true
 </div>
 
 
-</div>
+</div> -->

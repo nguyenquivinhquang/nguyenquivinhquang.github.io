@@ -3,7 +3,7 @@ title: "Datasets"
 permalink: /datasets/
 author_profile: true
 ---
-<div class="text-justify">
+<!-- <div class="text-justify">
 
 <div class="w3-card-4 w3-margin w3-Dark Gray">
 <div class="w3-container w3-Dark Gray">
@@ -42,4 +42,4 @@ author_profile: true
 <p><button class="w3-button w3-padding-large w3-white w3-border"> <a href="https://github.com/ctyeong/Riseholme-2021" > <b> DATASET LINK » </b> </a> </button></p></div>
 
 
-</div>
+</div> -->
