@@ -88,9 +88,9 @@ redirect_from:
 
 <div class="text-justify">
 
-<h2> Education </h2>
+<!-- <h2> Education </h2>
 
-<p> I have had the chance to study my BSc at the International University - VNU-HCM </p>
+<p> I have had the chance to study my BSc at the International University - VNU-HCM </p> -->
 
 <!-- <div class="text-center">
 <div class="row">
