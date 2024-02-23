@@ -11,7 +11,6 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>This is the web page of Nguyễn Quí Vinh Quang.</p>
 
 <p> I am a research resident at <a href="https://www.vinai.io/">VinAI</a>, working under the supervision of  <a href="https://www.khoinguyen.org/">Dr. Khoi Nguyen</a> and <a href="https://rangnguyen.github.io/">Dr. Rang Nguyen</a>. My research focuses on the domain of Human Mesh Recovery in Video. Prior to my time at VinAI, I was an undergraduate at the International University - National University, where I was under the guidance of Dr. Ha Viet Uyen Synh. During this period, my research delved into the fields of multi-camera multi-people tracking and Vehicle Retrieval by Natural Language Descriptions.  </p>
 
