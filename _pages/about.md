@@ -12,7 +12,7 @@ redirect_from:
 <div class="text-justify">
 
 
-<p> I am a research resident at <a href="https://www.vinai.io/">VinAI</a>, working under the supervision of  <a href="https://www.khoinguyen.org/">Dr. Khoi Nguyen</a> and <a href="https://rangnguyen.github.io/">Dr. Rang Nguyen</a>. My research focuses on the domain of Human Mesh Recovery. Prior to my time at VinAI, I was an undergraduate at the International University - National University, my research delved into the fields of multi-camera multi-people tracking and Vehicle Retrieval by Natural Language Descriptions.  </p>
+<p> I am a research resident at <a href="https://www.vinai.io/">VinAI</a>, working under the supervision of  <a href="https://www.khoinguyen.org/">Dr. Khoi Nguyen</a> and <a href="https://rangnguyen.github.io/">Dr. Rang Nguyen</a>. My research focuses on the domain of Human Mesh Recovery and Video Virtual Try-on. Prior to my time at VinAI, I was an undergraduate at the International University - National University, my research delved into the fields of Multi-camera Multi-people Tracking and Vehicle Retrieval by Natural Language Descriptions.  </p>
 
 
 <p>For inquiries about my research, email me at <strong>nguyenquivinhquang@gmail.com</strong>.</p>
