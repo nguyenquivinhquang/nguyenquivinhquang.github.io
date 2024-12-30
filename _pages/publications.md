@@ -10,7 +10,7 @@ author_profile: true
 
 <table >
 <tbody>
-<tr> <td style="width:170px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="../images/" width="150px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:170px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="../images/swift_try.png" width="150px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <u> Quang Qui-Vinh Nguyen* </u> ,Hung Nguyen* , Khoi Nguyen, Rang Nguyen <br> <strong> SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models
 </strong> <br>
