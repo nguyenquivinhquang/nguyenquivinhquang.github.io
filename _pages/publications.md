@@ -10,6 +10,17 @@ author_profile: true
 
 <table >
 <tbody>
+<tr> <td style="width:170px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="../images/" width="150px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<u> Quang Qui-Vinh Nguyen* </u> ,Hung Nguyen* , Khoi Nguyen, Rang Nguyen <br> <strong> SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models
+</strong> <br>
+<i> Accepted at AAAI 2025 <a href="https://arxiv.org/abs/2412.10178"> [PDF] </a>  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+<table >
+<tbody>
 <tr> <td style="width:170px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="../images/person_tracking.png" width="150px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <u> Quang Qui-Vinh Nguyen </u>, Huy Dinh-Anh Le, Truc Thi-Thanh Chau, Duc Trung Luu, Nhat Minh Chung, Synh Viet-Uyen Ha <br> <strong> Multi-camera People Tracking With Mixture of Realistic and Synthetic Knowledge</strong> <br>
