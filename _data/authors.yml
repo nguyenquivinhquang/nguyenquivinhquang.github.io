@@ -1,0 +1,37 @@
+quangnguyen:
+  first_name: Quang (Qui-Vinh)
+  last_name: Nguyen
+  website: https://ngoductuanlhp.github.io/
+  is_me: true
+khoinguyen:
+  first_name: Khoi
+  last_name: Nguyen
+  website: https://www.khoinguyen.org/
+rangnguyen:
+  first_name: Rang
+  last_name: Nguyen
+  website: https://rangnguyen.github.io/
+hungnguyen:
+  first_name: Hung
+  last_name: Nguyen
+  website: https://hungnguyen2611.github.io/
+huyle:
+  first_name: Huy
+  last_name: Le
+  website: https://lehuy1611.github.io/
+
+nhatchung:
+  first_name: Nhat
+  last_name: Chung
+
+trucchau:
+  first_name: Truc
+  last_name: Chau 
+
+ducluu:
+  first_name: Duc
+  last_name: Trung Luu 
+
+synhha:
+  first_name: Synh
+  last_name: Ha Viet Uyen
